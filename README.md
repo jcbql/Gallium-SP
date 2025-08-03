@@ -1,7 +1,7 @@
 # Gallium SP - A thumb key layout
 **Gallium SP** modifies the popular Gallium layout to reduce SFBs by 40% and LSBs by 70% according to the [u/cyaophage](https://www.reddit.com/user/cyanophage/)'s [wonderful website](https://cyanophage.github.io/). 
 
-![Gallium SP](gallium_sp_layout.png)
+![Gallium SP](layout.png)
 
 This modification allows Gallium users to easily switch to a thumb key layout as there are only 5 letters that have moved position. This preserves most of the muscle memory you have already built. While it is possible to move just two letters; `S` to the thumb and `P` to the vacant spot, I would recommend to rotate the `C P W` column to put the more common `C` on the home row.
 
